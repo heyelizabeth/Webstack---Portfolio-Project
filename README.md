@@ -1,4 +1,4 @@
-~URL Shortener API~
+URL Shortener API
 
 This API is designed to convert long URLs into short, easy-to-share links using FastAPI and MongoDB.
 
