@@ -25,7 +25,7 @@ Track Clicks: Monitor how many times each short URL is accessed.
 
 Setup Instructions
 
-Requirements
+Requirements. 
 
 Docker installed
 
